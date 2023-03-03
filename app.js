@@ -10,4 +10,5 @@ const app = {
     }
 }
 
+// Hello
 Vue.createApp(app).mount('#app')
